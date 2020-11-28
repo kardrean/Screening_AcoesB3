@@ -3,7 +3,7 @@
 # tecnologias usadas
 React
 React Native
-Nest JS
+Next JS
 DB PostgreSQL
 ElasticSearch
 TypeScript
